@@ -1,42 +1,55 @@
- tr > td {
-        border: 1px solid black;
-        padding: 8px;
-        text-align: center;
-        background-color: white;
-      }
-      .h1 {
-        text-align: center;
-        color: #f7ae51;
-      }
-      body {
-        background-color: #091b4d;
-      }
-      tr > th {
-        padding: 15px;
-        text-align: center;
-        color: white;
-        border-radius: 20px;
-      }
-      .th-1 {
-        background-color: #8c5941;
-      }
-      .th-2 {
-        background-color: #56cdf1;
-      }
-      .th-3 {
-        background-color: #138ea3;
-      }
-      .th-4 {
-        background-color: #e14f2d;
-      }
-      .th-5 {
-        background-color: #f3af69;
-      }
-      .th-6 {
-        background-color: #e58cbb;
-      }
-      table {
-        margin: auto;
-        width: 40%;
-      }
-     
+ tr>td {
+     border: 1px solid black;
+     padding: 8px;
+     text-align: center;
+     background-color: white;
+ }
+
+ .h1 {
+     text-align: center;
+     color: #f7ae51;
+ }
+
+ body {
+     background-color: #091b4d;
+ }
+
+ tr>th {
+     padding: 15px;
+     text-align: center;
+     color: white;
+     border-radius: 20px;
+ }
+
+ .th-1 {
+     background-color: #8c5941;
+ }
+
+ .th-2 {
+     background-color: #56cdf1;
+ }
+
+ .th-3 {
+     background-color: #138ea3;
+ }
+
+ .th-4 {
+     background-color: #e14f2d;
+ }
+
+ .th-5 {
+     background-color: #f3af69;
+ }
+
+ .th-6 {
+     background-color: #e58cbb;
+ }
+
+ table {
+     margin: auto;
+     width: 38%;
+ }
+
+ .main {
+     margin-top: 15em;
+ }
